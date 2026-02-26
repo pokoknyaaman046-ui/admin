@@ -1,0 +1,15 @@
+{
+  "name": "admin-dashboard",
+  "version": "1.0.0",
+  "dependencies": [
+    "nlohmann-json",
+    "spdlog",
+    "crow",
+    "openssl",
+    "boost-asio",
+    "catch2",
+    "libpq",
+    "hiredis",
+    "zlib"
+  ]
+}
